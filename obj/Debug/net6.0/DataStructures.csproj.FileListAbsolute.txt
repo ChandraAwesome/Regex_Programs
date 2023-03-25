@@ -1,0 +1,15 @@
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\267_Batch\DataStructures\bin\Debug\net6.0\DataStructures.exe
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\267_Batch\DataStructures\bin\Debug\net6.0\DataStructures.deps.json
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\267_Batch\DataStructures\bin\Debug\net6.0\DataStructures.runtimeconfig.json
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\267_Batch\DataStructures\bin\Debug\net6.0\DataStructures.dll
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\267_Batch\DataStructures\bin\Debug\net6.0\DataStructures.pdb
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\267_Batch\DataStructures\obj\Debug\net6.0\DataStructures.csproj.AssemblyReference.cache
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\267_Batch\DataStructures\obj\Debug\net6.0\DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\267_Batch\DataStructures\obj\Debug\net6.0\DataStructures.AssemblyInfoInputs.cache
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\267_Batch\DataStructures\obj\Debug\net6.0\DataStructures.AssemblyInfo.cs
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\267_Batch\DataStructures\obj\Debug\net6.0\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\267_Batch\DataStructures\obj\Debug\net6.0\DataStructures.dll
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\267_Batch\DataStructures\obj\Debug\net6.0\refint\DataStructures.dll
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\267_Batch\DataStructures\obj\Debug\net6.0\DataStructures.pdb
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\267_Batch\DataStructures\obj\Debug\net6.0\DataStructures.genruntimeconfig.cache
+C:\Users\SARAT CHANDRA\OneDrive\Desktop\267_Batch\DataStructures\obj\Debug\net6.0\ref\DataStructures.dll
